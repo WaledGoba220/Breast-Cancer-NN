@@ -1,7 +1,7 @@
 ## Breast Cancer Classification with Neural Network
 
 
-Data preprocessing is an essential step in machine learning, as it can significantly impact the accuracy and performance of models. Standardization and normalization are two common techniques used in data preprocessing to transform numerical data into a standard format, suitable for analysis and modeling.
+### Data preprocessing is an essential step in machine learning, as it can significantly impact the accuracy and performance of models. Standardization and normalization are two common techniques used in data preprocessing to transform numerical data into a standard format, suitable for analysis and modeling.
 
 Standardization involves scaling the data so that it has a mean of zero and a standard deviation of one by subtracting the mean and dividing by the standard deviation. It's useful when data has different scales or units to ensure all features are on the same scale, making the data more interpretable and features more comparable.
 
