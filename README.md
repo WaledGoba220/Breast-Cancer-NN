@@ -8,3 +8,5 @@
 #### Normalization, on the other hand, scales the data to a fixed range, typically between 0 and 1, by subtracting the minimum value and dividing by the range. It's useful when relative values are more important than absolute values, particularly when dealing with features with vastly different ranges.
 
 #### Both techniques are critical for machine learning, especially in models sensitive to data scale such as k-nearest neighbors, support vector machines, and linear regression. It's crucial to select the appropriate technique based on the nature of the data and the model requirements.
+
+
